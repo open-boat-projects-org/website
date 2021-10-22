@@ -8,6 +8,8 @@ Editors:
 - chrhartz
 - glowntiger
 - Homberger
+- Jukolein (pending)
+- Martin68
 - Moeritsen
 - norbert-walter
 - oliverb68
