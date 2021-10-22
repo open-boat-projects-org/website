@@ -8,7 +8,7 @@ Editors:
 - chrhartz
 - glowntiger
 - Homberger
-- Jukolein (pending)
+- Jukolein
 - Martin68
 - Moeritsen
 - norbert-walter
