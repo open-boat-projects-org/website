@@ -15,3 +15,10 @@ Editors:
 - oliverb68
 - roaringforties
 - wellenvogel
+
+email will be forwarded to
+- chrhartz
+- Homberger
+- kannix
+- norbert-walter
+- wellenvogel
